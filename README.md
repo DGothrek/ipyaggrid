@@ -1,5 +1,7 @@
 # ipyaggrid
 
+This repository is a copy of the GitLab repo https://gitlab.com/DGothrek/ipyaggrid . Please don't post issues here and use GitLab instead.
+
 [![Latest Version](https://img.shields.io/pypi/v/ipyaggrid.svg)](https://pypi.python.org/pypi/ipyaggrid/)
 [![Downloads](https://img.shields.io/pypi/dm/ipyaggrid.svg)](https://pypi.python.org/pypi/ipyaggrid/)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gl/DGothrek%2Fipyaggrid/binder-demo)
